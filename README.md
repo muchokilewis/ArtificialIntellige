@@ -3,3 +3,6 @@
 
 2. **tictactoe.py**
     Tic tac toe game - human VS AI
+
+3. **tictac.py**
+    Tic tac toe implementation - human vs human
